@@ -8,14 +8,14 @@
 
 ### **实时监控入口**
 
-[路测管理系统实时监控平台](http://47.103.61.192:80/map)
+[路测管理系统实时监控平台](https://fieldtest.sensetime.com/map)
 
 **普通用户入口**
 
 普通用户进入实时监控页面除了直接输入网址
 
 ```text
-http://47.103.61.192:80/map
+https://fieldtest.sensetime.com/map
 ```
 
 还有一下三个访问入口
